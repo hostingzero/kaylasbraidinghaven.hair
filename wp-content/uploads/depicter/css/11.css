@@ -1,0 +1,66 @@
+
+.depicter-revert .depicter-11-element-10{
+	border-radius:100px;
+}
+.depicter-revert .depicter-11-section-9 .depicter-section-background{
+	background-color:#999999;
+}
+.depicter-revert .depicter-11-element-12{
+	border-radius:100px;
+}
+.depicter-revert .depicter-11-section-11 .depicter-section-background{
+	background-color:#999999;
+}
+.depicter-revert .depicter-11-element-14{
+	border-radius:100px;
+}
+.depicter-revert .depicter-11-section-13 .depicter-section-background{
+	background-color:#999999;
+}
+.depicter-revert .depicter-11-element-5{
+	border-radius:100px;
+}
+.depicter-revert .depicter-11-section-4 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-11-element-2{
+	border-radius:100px;
+}
+.depicter-revert .depicter-11-section-1 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+
+/***** Tablet *****/
+@media screen and (max-width: 1024px){
+
+.depicter-revert .depicter-11-section-9 .depicter-section-background{
+	background-color:#999999;
+}
+.depicter-revert .depicter-11-section-13 .depicter-section-background{
+	background-color:#999999;
+}
+
+}
+/***** Mobile *****/
+@media screen and (max-width: 767px){
+
+.depicter-revert .depicter-11-section-9 .depicter-section-background{
+	background-color:#999999;
+}
+.depicter-revert .depicter-11-section-13 .depicter-section-background{
+	background-color:#999999;
+}
+.depicter-revert .depicter-11-element-5{
+	border-radius:100px;
+}
+.depicter-revert .depicter-11-section-4 .depicter-section-background{
+	background-color:#000000;
+}
+.depicter-revert .depicter-11-element-2{
+	border-radius:100px;
+}
+.depicter-revert .depicter-11-section-1 .depicter-section-background{
+	background-color:#000000;
+}
+
+}

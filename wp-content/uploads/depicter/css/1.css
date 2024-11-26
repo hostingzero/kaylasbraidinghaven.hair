@@ -1,0 +1,21 @@
+
+.depicter-revert .depicter-1-section-1 .depicter-section-background{
+	background-color:#000000;
+}
+
+/***** Tablet *****/
+@media screen and (max-width: 1024px){
+
+.depicter-revert .depicter-1-section-1 .depicter-section-background{
+	background-color:#000000;
+}
+
+}
+/***** Mobile *****/
+@media screen and (max-width: 767px){
+
+.depicter-revert .depicter-1-section-1 .depicter-section-background{
+	background-color:#000000;
+}
+
+}
